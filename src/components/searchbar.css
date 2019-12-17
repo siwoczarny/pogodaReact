@@ -1,0 +1,33 @@
+.app input,
+.app button {
+    margin: 16px 1px;
+    font-size: 16px;
+    border: 1px solid #47424f;
+    border-radius: 10px;
+    background: #ffffff;
+    color: #47424f;
+}
+
+.app input {
+    width: 200px;
+    height: 36px;
+    padding: 1px 1px 1px 8px;
+    cursor: pointer;
+    outline: none;
+}
+
+.app input:focus {
+    outline: none;
+}
+
+.app button {
+    height: 40px;
+    padding: 1px 8px;
+    cursor: pointer;
+    outline: none;
+    transition: all .2s;
+}
+
+.app button:hover {
+    background: #fac401;
+}

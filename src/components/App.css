@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Lexend+Tera&display=swap');
+
+.app {
+  font-family: 'Lexend Tera', sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #47424f;
+}
+
+.app:after {
+  content: "";
+  background: url(../img/background-wallpaper.jpg) no-repeat center center;
+  background-size: cover;
+  opacity: 0.4;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+
+.app h1 {
+  font-size: 3rem;
+  color: #fac401;
+  text-shadow: 1px 2px 0 #47424f;
+}
