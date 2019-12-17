@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pogoda-react/static/css/main.b0c531fc.chunk.css",
-    "main.js": "/pogoda-react/static/js/main.30f1e389.chunk.js",
-    "main.js.map": "/pogoda-react/static/js/main.30f1e389.chunk.js.map",
+    "main.js": "/pogoda-react/static/js/main.6b89d738.chunk.js",
+    "main.js.map": "/pogoda-react/static/js/main.6b89d738.chunk.js.map",
     "runtime-main.js": "/pogoda-react/static/js/runtime-main.72498d8f.js",
     "runtime-main.js.map": "/pogoda-react/static/js/runtime-main.72498d8f.js.map",
     "static/js/2.8435ff76.chunk.js": "/pogoda-react/static/js/2.8435ff76.chunk.js",
     "static/js/2.8435ff76.chunk.js.map": "/pogoda-react/static/js/2.8435ff76.chunk.js.map",
     "index.html": "/pogoda-react/index.html",
-    "precache-manifest.1c40e7485498ad110e6af7e98a242aee.js": "/pogoda-react/precache-manifest.1c40e7485498ad110e6af7e98a242aee.js",
+    "precache-manifest.89906403c4766c5edb7e82ed43f68600.js": "/pogoda-react/precache-manifest.89906403c4766c5edb7e82ed43f68600.js",
     "service-worker.js": "/pogoda-react/service-worker.js",
     "static/css/main.b0c531fc.chunk.css.map": "/pogoda-react/static/css/main.b0c531fc.chunk.css.map",
     "static/js/2.8435ff76.chunk.js.LICENSE": "/pogoda-react/static/js/2.8435ff76.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.72498d8f.js",
     "static/js/2.8435ff76.chunk.js",
     "static/css/main.b0c531fc.chunk.css",
-    "static/js/main.30f1e389.chunk.js"
+    "static/js/main.6b89d738.chunk.js"
   ]
 }
