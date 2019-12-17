@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pogodareact/static/css/main.deb55340.chunk.css",
+    "main.js": "/pogodareact/static/js/main.aca05d5c.chunk.js",
+    "main.js.map": "/pogodareact/static/js/main.aca05d5c.chunk.js.map",
+    "runtime-main.js": "/pogodareact/static/js/runtime-main.69175e68.js",
+    "runtime-main.js.map": "/pogodareact/static/js/runtime-main.69175e68.js.map",
+    "static/js/2.8435ff76.chunk.js": "/pogodareact/static/js/2.8435ff76.chunk.js",
+    "static/js/2.8435ff76.chunk.js.map": "/pogodareact/static/js/2.8435ff76.chunk.js.map",
+    "index.html": "/pogodareact/index.html",
+    "precache-manifest.b9fa6d5eb7f35f204832c132d9b3b4ad.js": "/pogodareact/precache-manifest.b9fa6d5eb7f35f204832c132d9b3b4ad.js",
+    "service-worker.js": "/pogodareact/service-worker.js",
+    "static/css/main.deb55340.chunk.css.map": "/pogodareact/static/css/main.deb55340.chunk.css.map",
+    "static/js/2.8435ff76.chunk.js.LICENSE": "/pogodareact/static/js/2.8435ff76.chunk.js.LICENSE",
+    "static/media/App.css": "/pogodareact/static/media/background-wallpaper.c0774ba9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69175e68.js",
+    "static/js/2.8435ff76.chunk.js",
+    "static/css/main.deb55340.chunk.css",
+    "static/js/main.aca05d5c.chunk.js"
+  ]
+}
