@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/pogodareact/static/css/main.deb55340.chunk.css",
-    "main.js": "/pogodareact/static/js/main.d1b9e145.chunk.js",
-    "main.js.map": "/pogodareact/static/js/main.d1b9e145.chunk.js.map",
-    "runtime-main.js": "/pogodareact/static/js/runtime-main.69175e68.js",
-    "runtime-main.js.map": "/pogodareact/static/js/runtime-main.69175e68.js.map",
-    "static/js/2.8435ff76.chunk.js": "/pogodareact/static/js/2.8435ff76.chunk.js",
-    "static/js/2.8435ff76.chunk.js.map": "/pogodareact/static/js/2.8435ff76.chunk.js.map",
-    "index.html": "/pogodareact/index.html",
-    "precache-manifest.07cc0a7ffa23883096ad43ad12358406.js": "/pogodareact/precache-manifest.07cc0a7ffa23883096ad43ad12358406.js",
-    "service-worker.js": "/pogodareact/service-worker.js",
-    "static/css/main.deb55340.chunk.css.map": "/pogodareact/static/css/main.deb55340.chunk.css.map",
-    "static/js/2.8435ff76.chunk.js.LICENSE": "/pogodareact/static/js/2.8435ff76.chunk.js.LICENSE",
-    "static/media/App.css": "/pogodareact/static/media/background-wallpaper.c0774ba9.jpg"
+    "main.css": "/pogoda-react/static/css/main.b0c531fc.chunk.css",
+    "main.js": "/pogoda-react/static/js/main.30f1e389.chunk.js",
+    "main.js.map": "/pogoda-react/static/js/main.30f1e389.chunk.js.map",
+    "runtime-main.js": "/pogoda-react/static/js/runtime-main.72498d8f.js",
+    "runtime-main.js.map": "/pogoda-react/static/js/runtime-main.72498d8f.js.map",
+    "static/js/2.8435ff76.chunk.js": "/pogoda-react/static/js/2.8435ff76.chunk.js",
+    "static/js/2.8435ff76.chunk.js.map": "/pogoda-react/static/js/2.8435ff76.chunk.js.map",
+    "index.html": "/pogoda-react/index.html",
+    "precache-manifest.1c40e7485498ad110e6af7e98a242aee.js": "/pogoda-react/precache-manifest.1c40e7485498ad110e6af7e98a242aee.js",
+    "service-worker.js": "/pogoda-react/service-worker.js",
+    "static/css/main.b0c531fc.chunk.css.map": "/pogoda-react/static/css/main.b0c531fc.chunk.css.map",
+    "static/js/2.8435ff76.chunk.js.LICENSE": "/pogoda-react/static/js/2.8435ff76.chunk.js.LICENSE",
+    "static/media/App.css": "/pogoda-react/static/media/background-wallpaper.c0774ba9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.69175e68.js",
+    "static/js/runtime-main.72498d8f.js",
     "static/js/2.8435ff76.chunk.js",
-    "static/css/main.deb55340.chunk.css",
-    "static/js/main.d1b9e145.chunk.js"
+    "static/css/main.b0c531fc.chunk.css",
+    "static/js/main.30f1e389.chunk.js"
   ]
 }
